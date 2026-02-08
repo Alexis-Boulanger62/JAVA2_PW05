@@ -2,10 +2,8 @@ package fr.isen.java2.db.daos;
 
 import fr.isen.java2.db.entities.Genre;
 import fr.isen.java2.db.entities.Movie;
-import static org.assertj.core.api.Assertions.fail;
 
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.time.LocalDate;
